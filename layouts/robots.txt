@@ -1,6 +1,0 @@
-User-agent: *
-{{- if .Site.Params.allowSearchEngines }}
-Allow: /
-{{- else }}
-Disallow: /
-{{- end }}
