@@ -1,0 +1,3 @@
+[submodule "themes/online-resume"]
+	path = themes/online-resume
+	url = https://github.com/tarrex/hugo-theme-online-resume.git

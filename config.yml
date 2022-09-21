@@ -1,0 +1,16 @@
+baseURL: "https://kenhong4134.github.io/resume"
+disableKinds: [section, taxonomy, term, RSS, sitemap, 404]
+enableRobotsTXT: true
+languageCode: en
+
+title: Ken Hong's Resume
+theme: online-resume
+
+params:
+  open: true                # open or close your site
+  dateFormat: 2006-01-02    # date format
+  themeColor: '#1DA1F2'     # your favorite theme color
+  allowSearchEngines: true  # allow search engines indexing your resume
+  analytics:
+    google:                 # your google analytics
+    cloudflare:             # your cloudflare analytics

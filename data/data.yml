@@ -1,0 +1,248 @@
+basic:
+  name: Ken Hong
+  title: System Analyst / Backend Developer 
+  avatar:
+    display: false
+    path: profile.png
+
+contact:
+  location: Taipei, Taiwan
+  email: kenhong4134@gmail.com
+  phone: 
+  website: https://kenhong4134.github.io/blog-for-it/
+  wechat:
+  whatsapp:
+  telegram:
+  github: kenhong4134
+  gitlab:
+  bitbucket:
+  googlescholar:
+  researchgate:
+  linkedin: 
+  medium:
+  twitter: 
+  stackoverflow:
+  quora:
+  goodreads:
+
+profile:
+  display: true
+  title: Profile
+  details: |
+    Hi, I am Ken. A person have 7 years experience on 
+
+experiences:
+  display: true
+  title: Work Experience
+  items:
+    - role: System Analyst / Backend Developer 
+      time: 2021.08 - Current
+      company: MorrisonExpress Co., Ltd.
+      tag: full-time
+      location: Taipei, Taiwan
+      details: |
+        Experience in this company:
+        + First
+        + Second
+
+        ...
+
+    - role: Software Engineer
+      time: 2019.07 - 2021.07
+      company: Bestcom Technology Co., Ltd.
+      tag: full-time
+      location: Taipei, Taiwan
+      details: |
+        Experience in this company:
+        + First
+        + Second
+
+    - role: Backend Developer
+      time: 2018.05 - 2019.06
+      company: Octoreach International Co., ltd.
+      tag: full-time
+      location: Taipei, Taiwan
+      details: |
+        Experience in this company:
+        + First
+        + Second
+
+    - role: Backend Developer
+      time: 2015.07 - 2018.04
+      company: Orbit Technology Co., Ltd.
+      tag: full-time
+      location: Taipei, Taiwan
+      details: |
+        Experience in this company:
+        + First
+        + Second
+
+
+projects:
+  display: false
+  title: Projects
+  intro: |
+    This is all the projects I'm involved in.
+
+  items:
+    - name: Foo
+      link: https://www.google.com
+      details: |
+        Project Foo's detail, you can write markdown format text.
+
+    - name: Bar
+      link:
+      details: |
+        Project Bar's detail, you can write markdown format text.
+
+skills:
+  display: true
+  title: Skills
+  details: |
+    + Back-end programming languages: C#, Python, VB.NET, Java
+    + Back-End Framework: ASP.NET Core, ASP.NET Framework
+    + Front-end programming languages: HTML5, CSS3, JavaScript
+    + Front-End Framework: Angular, React Hook
+    + Databases: SQL Server, MySQL, PostgreSQL
+    + Version control: Git
+    + Experience with AWS, Azure, GCP
+    + DevOps: Azure DevOps Service, Jetkins
+    + Others: Docker, Kubernetes, Helm
+
+  levels:
+    - name: C#
+      level: 85
+    - name: Python
+      level: 70
+    - name: VB.NET
+      level: 70
+    - name: Java
+      level: 60
+    - name: ASP.NET Core
+      level: 60
+    - name: ASP.NET Framework
+      level: 80
+    - name: HTML5
+      level: 60
+    - name: CSS3
+      level: 30
+    - name: JavaScript
+      level: 60
+    - name: Angular 
+      level: 30
+    - name: React Hook
+      level: 35
+    - name: SQL Server
+      level: 70
+    - name: MySQL
+      level: 70
+    - name: PostgreSQL
+      level: 60
+    - name: Git
+      level: 80
+    - name: AWS
+      level: 70
+    - name: Azure
+      level: 80
+    - name: Azure DevOps Service
+      level: 80 
+    - name: Jetkins
+      level: 80
+    - name: Docker
+      level: 70 
+    - name: Kubernetes
+      level: 70
+    - name: Helm
+      level: 60
+
+education:
+  display: true
+  title: Education
+  items:
+    - university: National Kaohsiung University of Science and Technology
+      time: 2011.09 - 2015.06
+      major: Information management
+      degree: Bachelor
+      details: |
+        
+
+    - university: Tatung Senior High
+      time: 2008.09 - 2011.06
+      major: Data Processing Section
+      degree: Senior high school
+      details: |
+        
+
+certificates:
+  display: true
+  title: Certificates
+  items:
+    - name: DevOps Engineer Expert
+      authority: Microsoft 
+      time: 2021
+      link: https://learn.microsoft.com/en-us/certifications/devops-engineer/
+      details: |
+        Have experience with administering and developing in Azure, with strong skills in at least one of these areas.
+    - name: Azure Developer Associate 
+      authority: Microsoft
+      time: 2020
+      link: https://learn.microsoft.com/en-us/certifications/azure-developer/
+      details: |
+        Be able to program in an Azure-supported language, and should be proficient using Azure CLI, Azure PowerShell, and other tools.
+
+publications:
+  display: false
+  title: Publications
+  intro: |
+    This is all the books I wrote.
+
+  items:
+    - title: Foo in Action
+      authors: Foo Bar
+      conference: Foobar, 2019
+      link: https://www.google.com
+    - title: The Art of Bar
+      authors: Foo Bar
+      conference: Foobar, 2019
+      link:
+
+patents:
+  display: false
+  title: Patents
+  details: |
+    This is all my patents.
+    + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
+
+languages:
+  display: true
+  title: Languages
+  items:
+    - idiom: Chinese
+      level: Native
+    - idiom: English
+      level: Limited Working
+
+interests:
+  display: false
+  title: Interests
+  items:
+    - item: Reading
+      link:
+    - item: Cooking
+      link:
+
+evaluation:
+  display: false
+  title: Self-evaluation
+  details: |
+    Here is my self evaluation.
+    + First
+    + Second
+
+    ...
+
+footer:
+  display: true
+
+close: >
+  Sorry, my resume has been hidden.
