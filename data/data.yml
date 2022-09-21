@@ -73,9 +73,11 @@ experiences:
       tag: full-time
       location: Taipei, Taiwan
       details: |
-        Experience in this company:
-        + First
-        + Second
+        + Maintain existing VB6, WinForm programs
+        + Test scanner hardware, integrate scanning software and hardware.
+        + Check data before adding according to customer's business process
+        + Write different data receiving and dumping programs according to the data exchange format defined by customers
+        + Pre-processing image data before image file import
 
 
 projects:
