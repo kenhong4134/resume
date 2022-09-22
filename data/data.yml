@@ -26,10 +26,10 @@ contact:
   goodreads:
 
 profile:
-  display: true
+  display: false
   title: Profile
   details: |
-    Hi, I am Ken. A person have 7 years experience on 
+    Hi, I am a Software Engineer with 7 years experience on software programing.
 
 experiences:
   display: true
@@ -41,33 +41,60 @@ experiences:
       tag: full-time
       location: Taipei, Taiwan
       details: |
-        Experience in this company:
-        + First
-        + Second
+        + System Analyst (SA)
+          + Discuss requirements with business analysts and design data flow for data integration with other 3rd party business systems
+          + Consider system changes in the requirements and write software design documents and data flow diagrams
+          + Team leader of the forwarder online booking module and the team members are about 3-5 people
+          + Communicate and coordinate with other SA of each business module
+        + Back-end Engineer (BE)
+          + Code Review checker
+          + Develop RESTful API based on requirement content and Spec
+          + Rregularly refactor backend source code and Write unit tests to improve test coverage
+          + System performance optimization
+          + Share the implementation problems encountered during the software development
+        + AWS, Python, Flask, MySQL, Github
 
-        ...
-
-    - role: Software Engineer
+    - role: System Engineer
       time: 2019.07 - 2021.07
       company: Bestcom Technology Co., Ltd.
       tag: full-time
       location: Taipei, Taiwan
       details: |
-        Experience in this company:
-        + First
-        + Second
+        + Use .NET Framework MVC for writing user interface
+        + Optimize system presentation content
+        + Write C# programs and design the data flow from Microsoft Azure API to the system
+        + Maintain and optimize database performance
+        + Added code obfuscator and programmers can use a easy way for debuging
+        + Design the CI/CD process 
+        + Keyword: Azure, C#, .NET Framework, .NET Core, Python, Flask, SQL Server, Git, Javascript, HTML5, Bootstrap, jQuery
+	
 
-    - role: Backend Developer
+    - role: Software Enginee
       time: 2018.05 - 2019.06
       company: Octoreach International Co., ltd.
       tag: full-time
       location: Taipei, Taiwan
       details: |
-        Experience in this company:
-        + First
-        + Second
+        + System Analyst (SA)
+          + Design the workflow of medical equipment to in-hospital system
+          + Define system data flow
+          + Writing system analysis documents
+          + Define software functions and use libraries
+        + Software Designer (SD)
+          + Design and standardization of medical equipment data exchange format
+          + Designing screen element specifications
+          + Define configuration of configuration files
+          + Define system error prevention mechanism and operation screen flow
+          + Write test plans
+          + Define database fields to conform to screen fields and operational specifications
+        + Software Engineer (SE)
+          + Install and configure Ubuntu system to meet the requirements of running software
+          + Set network parameters according to customer's network environment
+          + Write front-end and back-end code to conform to the documentation specifications
+          + Write different data receiving and dumping programs according to the data exchange format defined by the customer
+        + Keyword: C#, VB.NET, WinForm, .NET Framework, .NET Core, Python, SQL Server, PostgreSQL
 
-    - role: Backend Developer
+    - role: Research and Development Engineer
       time: 2015.07 - 2018.04
       company: Orbit Technology Co., Ltd.
       tag: full-time
@@ -78,6 +105,7 @@ experiences:
         + Check data before adding according to customer's business process
         + Write different data receiving and dumping programs according to the data exchange format defined by customers
         + Pre-processing image data before image file import
+        + Keyword: Keyword: C#, VB.NET, VB6, WinForm, .NET Framework, SQL Server
 
 
 projects:
