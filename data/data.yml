@@ -52,7 +52,7 @@ experiences:
           + Rregularly refactor backend source code and Write unit tests to improve test coverage
           + System performance optimization
           + Share the implementation problems encountered during the software development
-        + AWS, Python, Flask, MySQL, Github
+         + Keywords: AWS, Python, Flask, MySQL, Regis, Github
 
     - role: System Engineer
       time: 2019.07 - 2021.07
@@ -66,7 +66,7 @@ experiences:
         + Maintain and optimize database performance
         + Added code obfuscator and programmers can use a easy way for debuging
         + Design the CI/CD process 
-        + Keyword: Azure, C#, .NET Framework, .NET Core, Python, Flask, SQL Server, Git, Javascript, HTML5, Bootstrap, jQuery
+        + Keywords: Azure, C#, .NET Framework, .NET Core, Python, Flask, SQL Server, Git, Javascript, HTML5, Bootstrap, jQuery
 
     - role: Software Enginee
       time: 2018.05 - 2019.06
@@ -91,7 +91,7 @@ experiences:
           + Set network parameters according to customer's network environment
           + Write front-end and back-end code to conform to the documentation specifications
           + Write different data receiving and dumping programs according to the data exchange format defined by the customer
-        + Keyword: C#, VB.NET, WinForm, .NET Framework, .NET Core, Python, SQL Server, PostgreSQL
+        + Keywords: C#, VB.NET, WinForm, .NET Framework, .NET Core, Python, SQL Server, PostgreSQL
 
     - role: Research and Development Engineer
       time: 2015.07 - 2018.04
@@ -104,7 +104,7 @@ experiences:
         + Check data before adding according to customer's business process
         + Write different data receiving and dumping programs according to the data exchange format defined by customers
         + Pre-processing image data before image file import
-        + Keyword: Keyword: C#, VB.NET, VB6, WinForm, .NET Framework, SQL Server
+        + Keywords: Keyword: C#, VB.NET, VB6, WinForm, .NET Framework, SQL Server
 
 
 projects:
