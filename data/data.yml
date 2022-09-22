@@ -136,7 +136,7 @@ skills:
     + Databases: SQL Server, MySQL, PostgreSQL
     + Version control: Git
     + Experience with AWS, Azure, GCP
-    + DevOps: Azure DevOps Service, Jetkins
+    + DevOps: Azure DevOps Service, Jetkins, Github Action
     + Others: Docker, Kubernetes, Helm
 
   levels:
@@ -177,7 +177,9 @@ skills:
     - name: Azure DevOps Service
       level: 80 
     - name: Jetkins
-      level: 80
+      level: 70
+    - name: Github Action
+      level: 70 
     - name: Docker
       level: 70 
     - name: Kubernetes
