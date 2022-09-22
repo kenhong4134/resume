@@ -67,7 +67,6 @@ experiences:
         + Added code obfuscator and programmers can use a easy way for debuging
         + Design the CI/CD process 
         + Keyword: Azure, C#, .NET Framework, .NET Core, Python, Flask, SQL Server, Git, Javascript, HTML5, Bootstrap, jQuery
-	
 
     - role: Software Enginee
       time: 2018.05 - 2019.06
@@ -136,7 +135,7 @@ skills:
     + Databases: SQL Server, MySQL, PostgreSQL
     + Version control: Git
     + Experience with AWS, Azure, GCP
-    + DevOps: Azure DevOps Service, Jetkins, Github Action
+    + DevOps: Azure DevOps Service, Jetkins, Github Actions
     + Others: Docker, Kubernetes, Helm
 
   levels:
@@ -178,7 +177,7 @@ skills:
       level: 80 
     - name: Jetkins
       level: 70
-    - name: Github Action
+    - name: Github Actions
       level: 70 
     - name: Docker
       level: 70 
